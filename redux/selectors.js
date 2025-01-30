@@ -1,0 +1,1 @@
+export const selectCount = store => store?.value;
