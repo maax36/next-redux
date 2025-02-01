@@ -9,11 +9,11 @@ export default function Page() {
             <h2 className='dz'>ДЗ:</h2>
             <NanoTodo />
             <NanoTodo />
-            <h2 className='lesson'>повторил по уроку:</h2>
+            <h2 className='lesson'>Повторил по уроку:</h2>
             <NanoCounter />
-            <h2 className='lesson'>повторил по уроку:</h2>
+            <h2 className='lesson'>Повторил по уроку:</h2>
             <ToDO />
-            <h2 className='lesson'>повторил по уроку:</h2>
+            <h2 className='lesson'>Повторил по уроку:</h2>
             <Counter />
         </>
     );
